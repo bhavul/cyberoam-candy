@@ -1,1 +1,1 @@
-from cyberoam import cyberoam
+from cyberoam_candy import cyberoam_candy
